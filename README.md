@@ -1,4 +1,4 @@
-# denga - Dengue Ai
+# dengai - Dengue Ai
 This Dash board is used as a visualization for Dengue Anallytics by the dengai Project
 
 To setup,
